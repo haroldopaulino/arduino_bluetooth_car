@@ -1,4 +1,4 @@
-#####Arduino based Bluetooth Car
+##### Arduino based Bluetooth Car
 
 This arduino project performs the following:
 
